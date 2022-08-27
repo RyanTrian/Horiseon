@@ -93,6 +93,7 @@ main section img {
 main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    position: relative;
 }
 /* Changes .benefits to aside */
 aside {
